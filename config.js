@@ -43,7 +43,7 @@ global.APIs = {
 }
 global.APIKeys = {
   // APIKey Here
-  // 'https://website': 'apikey'
+  // 'https://website': 'GuruBot~KSjQnX7N'
   'https://api.xteam.xyz': 'd90a9e986e18778b',
   'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
   'https://api.neoxr.my.id': `${keysneoxr}`,
